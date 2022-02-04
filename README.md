@@ -25,17 +25,10 @@
 </p>
 
 ***
-<p align="center">  
+
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirMakarof&layout=compact)  
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirMakarof&count_private=true&hide=contribs,issues&theme=tokyonight&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirMakarof&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirMakarof&count_private=true&hide=contribs,issues&show_icons=true) [![codewars](https://www.codewars.com/users/VladimirMakarof/badges/large)](https://www.codewars.com/users/VladimirMakarof)   
 
 
-
-[![codewars](https://www.codewars.com/users/VladimirMakarof/badges/large)](https://www.codewars.com/users/VladimirMakarof)   
-
-</p>
 
 
