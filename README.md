@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://vladimirmakarof.github.io/rsschool-cv/" target="_blank">Vladimir </a> 
+<h1 align="center">Hi there, I'm <a href="https://vladimirmakarof.github.io/Project-rsschool-cv/" target="_blank">Vladimir </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web developer from Russia 🇷🇺</h3>
 
