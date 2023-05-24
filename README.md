@@ -5,7 +5,6 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 **Currently:** I’m currently studying at <a href="https://rs.school/" target="_blank">rsschool</a>, and it's cool
 - 👯 **Сollaboration:** I'll be glad to share my experience and learn from other developers.
 - 🧐 **What interesting to me:** I’m looking for good programming practices and friends.
 - 📫 **How to reach me:** telegram <a href="https://t.me/Vladimir_Makarof"> 💬</a>
