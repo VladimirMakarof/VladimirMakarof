@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://vladimirmakarof.github.io/Project-rsschool-cv/" target="_blank">Vladimir </a> 
+<h1 align="center">Hi there, I'm <a href="[https://vladimirmakarof.github.io/Project-rsschool-cv/](https://vladimirmakarof.github.io/makarov-cv/)" target="_blank">Vladimir </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web developer from Russia 🇷🇺</h3>
 
@@ -16,6 +16,9 @@
 <img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
 <img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
+<img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+<img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> 
+<img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
 <img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://github.com/VladimirMakarof/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
